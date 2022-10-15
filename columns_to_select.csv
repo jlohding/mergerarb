@@ -1,0 +1,101 @@
+column_names,kind
+Status,data
+Date Announced,data
+Date Effective,data
+Date Withdrawn,data
+Deal Number,data
+Target Name,data
+Target Primary Ticker Symbol,data
+Target Industry Sector,data
+Acquiror Name,data
+Acquiror Primary Ticker Symbol,data
+Acquiror Industry Sector,data
+Exchange Ratio,data
+Price Per Share,data
+Acquiror's price per share,data
+Acquiror Closing Price 1 Day After Ann Date ($),data
+Acquiror Closing Price 60 Days After Ann Date ($),data
+Acquiror Closing Price 90 Days After Ann Date ($),data
+Acquiror Closing Price 180 Days After Ann Date ($),data
+Target Share Price 1 Day Prior to Announcement ($),data
+Target Closing Price 1 Day After Ann Date ($),data
+Target Closing Price 60 Days After Ann Date ($),data
+Target Closing Price 90 Days After Ann Date ($),data
+Target Closing Price 180 Days After Ann Date ($),data
+Premium 1 day prior to announce- ment date,data
+Premium 1 week prior to announce- ment date,data
+Premium 4 weeks prior to ann. date,data
+S&P 500 Closing Price 1 Day Before Announcement,data
+Poison Pill,boolean
+% sought,ratio
+Ratio of Offer Price to EPS,ratio
+Ratio of Deal Value to Sales,ratio
+Ratio of Deal Value to EBIT,ratio
+Ratio of Deal Value to EBITDA,ratio
+Ratio of Deal Value to Net Income,ratio
+Ratio of Enterprise Value to Sales,ratio
+Ratio of Enterprise Value to EBIT,ratio
+Ratio of Enterprise Value to EBITDA,ratio
+Ratio of Enterprise Value to Net Income,ratio
+Equity Value/ Net Sales,ratio
+Ratio of Equity Value to EBIT,ratio
+Ratio of Equity Value at Announcement to EBITDA,ratio
+Ratio of Equity Value to Net Income,ratio
+Target Ebit 3-Year Growth Rate (%),ratio
+Target Ebit 5-Year Growth Rate (%),ratio
+EBIT Margin,ratio
+Target EBITDA Three Year Growth Rate,ratio
+Target EBITDA Five Year Growth Rate,ratio
+EBITDA Margin,ratio
+Target Net Assets Three Year Growth Rate,ratio
+Target Net Assets Five Year Growth Rate,ratio
+Target Net Sales 5-Year Growth Rate (%),ratio
+Total Fee %,ratio
+Target Fee %,ratio
+Target Total Assets 5-Year Growth Rate (%),ratio
+Target Total Lia. 5-Year Growth Rate (%),ratio
+Common Equity Multiple,ratio
+Value / Net Assets,ratio
+EBIT / Return on Assets,ratio
+EBITDA ROA,ratio
+Enterprise Value / Net Assets,ratio
+Enterprise Value / Pre-tax Inc,ratio
+Enterprise Value / Tangible Book Value,ratio
+Ratio of Offer Price to Book Value,ratio
+Target Net Sales LTM ($mil),scalar
+EBIT Last Twelve Months ($ Mil),scalar
+Pre-tax Income Last Twelve Months ($ Mil),scalar
+Net Income Last Twelve Months ($ Mil),scalar
+Target Net Assets ($mil),scalar
+Target Total Assets ($mil),scalar
+Target EBITDA LTM ($mil),scalar
+Target Book Value Per Share LTM (US$),scalar
+Target Common Equity ($mil),scalar
+Target Earnings Per Share LTM (US$),scalar
+Value Based on Effective Date ($mil),scalar
+Value Common at Eff. Date ($mil),scalar
+Equity Value at Effective Date ($mil),data
+Target Book Value/sh One Year Prior,scalar
+Target Book Value/sh Two Years Prior,scalar
+Target Book Value/sh Three Years Prior,scalar
+Target Capital Expend. One Year Prior ($ mil),scalar
+Target Capital Expend. Two Years Prior ($ mil),scalar
+Target Capital Expend. Three Years Prior ($ mil),scalar
+Target Cash & Mktbl. Securities One Year Prior ($ mil),scalar
+Target Cash & Mktbl. Securities Two Years Prior ($ mil),scalar
+Target Cash & Mktbl. Securities Three Years Prior ($ mil),scalar
+Host Curr. Target Long Term Debt One Year Prior (mil),scalar
+Host Curr. Target Long Term Debt Two Years Prior (mil),scalar
+Host Curr. Target Long Term Debt Three Years Prior (mil),scalar
+Target Long- Term Liab. 1-Year Prior ($ mil),scalar
+Target Long- Term Liab. 2-Years Prior ($ mil),scalar
+Target Long- Term Liab. 3-Years Prior ($ mil),scalar
+Target Net Cash Fr. Investing One Year Prior,scalar
+Target Net Cash Fr. Investing Two Years Prior,scalar
+Target Net Cash Fr. Investing Three Years Prior,scalar
+Target Net Cash fr. Financing One Year Prior,scalar
+Target Net Cash fr. Financing Two Years Prior,scalar
+Target Net Cash fr. Financing Three Years Prior,scalar
+Target Straight Debt One Year Prior ($ mil),scalar
+Target Straight Debt Two Years Prior ($ mil),scalar
+Target Straight Debt Three Years Prior ($ mil),scalar
