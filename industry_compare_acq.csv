@@ -1,0 +1,53 @@
+,acq_ind_sector,sample_size,success_rate,std
+0,"Wood Products, Furniture, and Fixtures",4,1.0,0.0
+1,Hotels and Casinos,11,1.0,0.0
+2,"Stone, Clay, Glass, and Concrete Products",3,1.0,0.0
+3,Retail Trade-Food Stores,4,1.0,0.0
+4,Repair Services,2,1.0,0.0
+5,Real Estate; Mortgage Bankers and Brokers,7,1.0,0.0
+6,Personal Services,3,1.0,0.0
+7,Paper and Allied Products,7,1.0,0.0
+8,Tobacco Products,3,1.0,0.0
+9,Motion Picture Production and Distribution,3,1.0,0.0
+10,Miscellaneous Manufacturing,3,1.0,0.0
+11,Sanitary Services,2,1.0,0.0
+12,Leather and Leather Products,2,1.0,0.0
+13,Construction Firms,10,1.0,0.0
+14,"Agriculture, Forestry, and Fishing",2,1.0,0.0
+15,Amusement and Recreation Services,3,1.0,0.0
+16,Wholesale Trade-Durable Goods,10,1.0,0.0
+17,"Commercial Banks, Bank Holding Companies",182,0.978494623655914,0.1454532244794842
+18,Prepackaged Software,19,0.95,0.22360679774997896
+19,"Measuring, Medical, Photo Equipment; Clocks",34,0.9444444444444444,0.2323106841457232
+20,Transportation and Shipping (except air),13,0.9285714285714286,0.2672612419124244
+21,"Savings and Loans, Mutual Savings Banks",26,0.9285714285714286,0.26226526415648105
+22,Computer and Office Equipment,11,0.9166666666666666,0.28867513459481287
+23,Oil and Gas; Petroleum Refining,52,0.9122807017543859,0.2854008305615333
+24,Aerospace and Aircraft,10,0.9090909090909091,0.30151134457776363
+25,Business Services,39,0.8863636363636364,0.3210382206405504
+26,Food and Kindred Products,23,0.8846153846153846,0.32581259360842113
+27,"Electric, Gas, and Water Distribution",45,0.8823529411764706,0.32539568672798425
+28,Health Services,15,0.8823529411764706,0.33210558207753577
+29,Electronic and Electrical Equipment,49,0.875,0.33371190623595726
+30,Insurance,34,0.8717948717948718,0.33868842842937047
+31,Wholesale Trade-Nondurable Goods,6,0.8571428571428571,0.37796447300922725
+32,Textile and Apparel Products,6,0.8571428571428571,0.37796447300922725
+33,Chemicals and Allied Products,23,0.8518518518518519,0.36201399289824565
+34,"Investment & Commodity Firms,Dealers,Exchanges",237,0.8464285714285714,0.36118298548178585
+35,Retail Trade-Eating and Drinking Places,5,0.8333333333333334,0.408248290463863
+36,Transportation Equipment,5,0.8333333333333334,0.408248290463863
+37,Machinery,14,0.8235294117647058,0.3929526239966879
+38,Telecommunications,17,0.8095238095238095,0.40237390808147827
+39,Drugs,29,0.8055555555555556,0.40138648595974313
+40,Miscellaneous Retail Trade,11,0.7857142857142857,0.4258153136263201
+41,Mining,7,0.7777777777777778,0.44095855184409843
+42,Metal and Metal Products,13,0.7647058823529411,0.4372373160976031
+43,Advertising Services,3,0.75,0.5
+44,Radio and Television Broadcasting Stations,18,0.72,0.45825756949558394
+45,Communications Equipment,5,0.7142857142857143,0.4879500364742666
+46,Retail Trade-General Merchandise and Apparel,6,0.6666666666666666,0.5
+47,"Printing, Publishing, and Allied Services",7,0.6363636363636364,0.504524979109513
+48,Rubber and Miscellaneous Plastic Products,3,0.6,0.5477225575051661
+49,Credit Institutions,3,0.6,0.5477225575051661
+50,"Soaps, Cosmetics, and Personal-Care Products",1,0.5,0.7071067811865476
+51,Other Financial,1,0.5,0.7071067811865476
