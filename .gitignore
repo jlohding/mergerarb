@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# .DS_Store and data files
+.DS_Store
+new_data.pickle
+raw_data.xlsx
+
+# model pickle files
+*.pkl
