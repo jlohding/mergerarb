@@ -21,3 +21,4 @@ Order of notebooks to run are:
 4. `backtest.ipynb`
 
 ## Project Report
+Read the project report [here](report/report.pdf)
